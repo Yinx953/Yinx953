@@ -1,25 +1,9 @@
-### Hi there 👋
-
-<!--
-**Yinx953/Yinx953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Yinx
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Yinx</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yinx953&label=Profile%20views&color=0e75b6&style=flat" alt="yinx953" /> </p>
 <img aling= "rigth" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Computer-screen-code-glitch-animation-gif-background-free.gif/1200px-Computer-screen-code-glitch-animation-gif-background-free.gif?20180213040859">
-<p align="left"> <a href="https://twitter.com/https://twitter.com/yunusemresavan" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/yunusemresavan?logo=twitter&style=for-the-badge" alt="https://twitter.com/yunusemresavan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://twitter.com/yunusemresavan" target="blank"><img src="https://img.shields.io/twitter/https://twitter.com/yunusemresavan?logo=twitter&style=for-the-badge" alt="https://twitter.com/yunusemresavan" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
