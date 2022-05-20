@@ -1,5 +1,4 @@
 # Yinx
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Yinx</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yinx953&label=Profile%20views&color=0e75b6&style=flat" alt="yinx953" /> </p>
 <img aling= "rigth" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Computer-screen-code-glitch-animation-gif-background-free.gif/1200px-Computer-screen-code-glitch-animation-gif-background-free.gif?20180213040859">
@@ -9,7 +8,7 @@
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/yunusemresavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/yunusemresavan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yunusemre-savan-a74b20177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yunusemre-savan-a74b20177/" height="30" width="40" /></a>
-<a href="https://discord.gg/ム Yinx ム#0749" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ム Yinx ム#0749" height="30" width="40" /></a>
+<a href="https://discord.gg/AjgxH6gxX9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ム Yinx ム#0749" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
